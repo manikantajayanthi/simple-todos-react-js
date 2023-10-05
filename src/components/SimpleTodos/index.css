@@ -1,0 +1,28 @@
+.bg-container {
+  background-color: #ffc2a0;
+  background-size: cover;
+  min-height: 100vh;
+  padding: 20px;
+}
+.main-heading {
+  color: #ff8542;
+  font-family: 'Roboto';
+  font-size: 32px;
+}
+
+.lists-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.list-bg-container {
+  background-color: #ffffff;
+  width: auto;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
